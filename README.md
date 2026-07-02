@@ -543,5 +543,4 @@ My work focused on building and integrating the applied AI pipeline, including:
 
 **Nooreldin Lasheen**  
 MSc Data Science, TU Wien  
-GitHub: `your-github-link`  
-LinkedIn: `your-linkedin-link`
+
